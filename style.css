@@ -1,0 +1,24 @@
+.mb-5{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.table{
+    position: fixed;
+    left: 450px;
+    border: 1;
+}
+body{
+    background-color: aqua;
+}
+.mb-6{
+    text-align: center;
+}
+.maklumat{
+    text-align: center;
+}
+.mt-4{
+    text-align: center;
+}
+.submit{
+    text-align: center;
+}
